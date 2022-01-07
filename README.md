@@ -18,4 +18,4 @@ This repository contains the tasks that I completed while working as an intern f
 
 - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 - Use R or Python or perform this task.
-- Data can be found at https://docs.google.com/spreadsheets/d/e/2PACX-1vQPinANAUnj2ztuT6vS8fLW0gEnuTw4Acsuao3hyT9XBMdoFjezBv2LttwcorP9bvREg-VcwhIZY_hS/pub?gid=180061103&single=true&output=csv
+- Data can be found at https://docs.google.com/spreadsheets/d/e/2PACX-1vQPinANAUnj2ztuT6vS8fLW0gEnuTw4Acsuao3hyT9XBMdoFjezBv2LttwcorP9bvREg-VcwhIZY_hS/pub?gid=180061103&single=true&output=csv (the same data is present as a file in the repository named iris.csv)
