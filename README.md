@@ -2,10 +2,6 @@
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation under the domain Data Science and Business Analytics
 
 
-* Internship Category - Data Science and Business Analytics
-* Internship Duration - 1 Month ( January-2022 )
-* Internship Type - Work from Home
-
 # Task-1 : Prediction using Supervised ML 
 
 - Predict the percentage of marks of an student based on the number of study hours.
